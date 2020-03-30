@@ -11,7 +11,7 @@ public class Filme {
 		this.id += 1;
 	}
 
-	public Filme(String titulo, int duracao, String faixaEtaria) {
+	//public Filme(String titulo, int duracao, String faixaEtaria) {
 		this.id += 1;
 		this.titulo = titulo;
 		this.duracao = duracao;
